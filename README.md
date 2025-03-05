@@ -29,34 +29,48 @@ Django
 Pillow (image handling)
 Bootstrap (optional styling)
 🚀 How to Run the Project
+
+
 1️⃣ Clone the Repository
 bash
 Copy
 Edit
 git clone <repository-link>
 cd e-learning-platform
+
+
 2️⃣ Install Dependencies
 bash
 Copy
 Edit
 pip install -r requirements.txt
+
+
 3️⃣ Run Migrations
 bash
 Copy
 Edit
 python manage.py migrate
+
+
 4️⃣ Load Sample Data (Optional)
 bash
 Copy
 Edit
 python manage.py loaddata sample_data.json
+
+
 5️⃣ Start the Server
 bash
 Copy
 Edit
 python manage.py runserver
+
+
 6️⃣ Access the Application
 Visit http://127.0.0.1:8000/ in your browser.
+
+
 
 📂 Features
 ✅ Instructor and Student Roles
