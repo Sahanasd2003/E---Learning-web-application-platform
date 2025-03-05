@@ -1,4 +1,7 @@
 📚 E-Learning Web Application Platform
+
+
+
 🔍 Overview
 This project is a robust and scalable E-Learning web application built using Django. It allows instructors to create and manage courses, upload diverse content (text, files, images), and organize them into structured modules, while students can easily enroll and access courses. The platform focuses on modularity, reusability, and ease of content management with features like automatic content ordering.
 
